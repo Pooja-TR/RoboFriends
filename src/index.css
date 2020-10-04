@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, rgb(37, 162, 137), rgb(0, 44, 102));
+}
+h1{
+  font:600 3.5em 'Raleway', sans-serif;
+	color: rgb(5, 39, 15);
+	text-align: center;
+	letter-spacing: .2em;
+	top: 15%;
+	width: 100%;
+}
